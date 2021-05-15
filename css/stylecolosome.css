@@ -1045,10 +1045,10 @@ margin: 0;
 	max-width: 320px;
 }
 .main-title{
-	font-size: 40px;
+	font-size: 30px;
 }
 .block-text{
-	padding-left:3%;
+	padding-left:0%;
 }
 .block-body-title{
 	padding-right: 5%;
@@ -1061,9 +1061,9 @@ margin: 0;
 	width:250px;
 	padding: 7px 7px;
 	align-items: center;
-	margin-top:-210px;
+	margin-top:-225px;
 	margin-bottom: 200px;
-	margin-left: 1%;
+	margin-left: -2%;
 }
 .slider-item img{
 	padding: 0px 10px;
